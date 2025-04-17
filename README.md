@@ -40,9 +40,9 @@ GitHub Repository: https://github.com/nissanthesign/caffein_website
 
 - 👤 **Faysal Bin Khaled Nissan**  
 - 👤 group members 
-     > Hosneara Sultana Akhi
-     >Akash Sen
-     >Rokeya Ahsan Jerin
+      ->Hosneara Sultana Akhi
+      ->Akash Sen
+      ->Rokeya Ahsan Jerin
 
 ## 📅 Submitted For
 
