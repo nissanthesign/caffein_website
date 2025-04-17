@@ -1,19 +1,55 @@
-# caffein_website
-☕ A responsive coffee-themed website project built using PHP, CSS, JavaScript, and HTML. Includes dynamic menu toggle, smooth scrolling, and mobile responsiveness.
-This is a cozy, responsive coffee-themed website built as part of a web development project using PHP, HTML, CSS, and JavaScript. It’s designed with a warm color palette, dynamic interactions, and a modern layout.
+# ☕ Coffee-Themed Web Development Project
 
-## 🔧 Tech Stack
+This project is a responsive, visually appealing coffee shop website developed using **PHP**, **HTML**, **CSS**, and **JavaScript**. It features a modern design with sections like Home, About, Menu, Gallery, Team, Contact and Admin Panel
 
-- **HTML5** – structure of the pages
-- **CSS3** – styling and responsive design
-- **JavaScript** – interactive navbar menu and scroll behavior
-- **PHP** – page structure and server-side integration
+## 📌 Features
 
-## ✨ Features
+- Clean, modern design with coffee-inspired color scheme  
+- Responsive navigation bar with hamburger menu for mobile view  
+- Smooth scrolling and scroll-triggered animations  
+- Dynamic content rendering with PHP  
+- Sections include:
+  - Home with banner image
+  - About section
+  - Menu showcase
+  - Image gallery
+  - Our team
+  - Contact form with input fields
+  - Admin Panel with CRUD features
 
-- Fully responsive layout (mobile-friendly)
-- Sticky header with a toggleable menu icon
-- Scroll-triggered menu closing for smooth user experience
-- Coffee-themed color palette and design
-- Section-based structure: About, Menu, Gallery, Team, Contact
-- Admin and Back buttons with hover effects
+## 🛠️ Technologies Used
+
+- **HTML5 & CSS3**  
+- **JavaScript (Vanilla)**  
+- **PHP**  
+- **Font Awesome Icons**  
+- **Google Fonts (Merienda One, Nunito)**
+
+
+
+
+## 🧠 Methodology
+
+This website was built by combining front-end design principles with dynamic content loading using PHP. The layout was structured using HTML & CSS Grid/Flexbox, while interactivity such as mobile navbar toggling was handled using JavaScript.
+
+GitHub Repository: https://github.com/nissanthesign/caffein_website
+
+
+
+## ✨ Authors
+
+- 👤 **Faysal Bin Khaled Nissan**  
+- 👤 group members 
+     > Hosneara Sultana Akhi
+     >Akash Sen
+     >Rokeya Ahsan Jerin
+
+## 📅 Submitted For
+
+**Web Engineering Project Showcase**  
+Daffodil International University  
+Web Enginnering Lab 
+
+
+---
+
